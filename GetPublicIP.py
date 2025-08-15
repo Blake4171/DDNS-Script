@@ -20,6 +20,6 @@ def public_ip():
     #print contents of 'ip_address' and 'timestamp' variables 
     print("The public ip is", ip_address,'at',timestamp)
 
-public_ip(
+public_ip()
 
 # Next, use the above function and cloudflare api to change the dns record on my account.
