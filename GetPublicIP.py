@@ -1,6 +1,4 @@
-import yaml
-import requests
-from datetime import datetime
+import imports
 
 def public_ip():
 #load the contents of yaml folder created and stored in same directory. Store as the f variable
